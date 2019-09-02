@@ -1,0 +1,7 @@
+{
+  "name": "pantallas_iconos",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
